@@ -1,5 +1,5 @@
 {
   "outdir": "$.dataset.dataPath",
 
-  "input": "$.params.dataset.paramJson.input_h5ad"
+  "input": "$.params.dataset.paramJson.input"
 }
