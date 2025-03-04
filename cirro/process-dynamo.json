@@ -1,0 +1,15 @@
+{
+  "childProcessIds": [],
+  "code": {
+      "repository": "GITHUBPRIVATE",
+      "script": "main.nf",
+      "uri": "break-through-cancer/btc-spatial-proteomics",
+      "version": "dev"
+  },
+  "desc": "Testing SPACEc module",
+  "documentationUrl": "https://github.com/yuqiyuqitan/SPACEc",
+  "executor": "NEXTFLOW",
+  "id": "btc-spatial-proteomics",
+  "name": "SPACEc - testing",
+  "parentProcessIds": []
+}

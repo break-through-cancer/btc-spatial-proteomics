@@ -1,0 +1,16 @@
+{
+  "form": {
+    "title": "SPACEc Pipeline",
+    "type": "object",
+    "properties": {
+      "input_h5ad": {
+            "type": "string",
+            "title": "input_h5ad",
+            "description": "Path to AnnData file.",
+            "pathType": "dataset",
+            "file": "**/*.h5ad"
+      }
+    }
+  },
+  "ui": {}
+}

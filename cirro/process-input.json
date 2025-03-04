@@ -1,0 +1,5 @@
+{
+  "out_dir": "$.dataset.dataPath",
+
+  "input": "$.params.dataset.paramJson.input_h5ad"
+}
