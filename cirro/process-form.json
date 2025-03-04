@@ -3,9 +3,9 @@
     "title": "SPACEc Pipeline",
     "type": "object",
     "properties": {
-      "input_h5ad": {
+      "input": {
             "type": "string",
-            "title": "input_h5ad",
+            "title": "input",
             "description": "Path to AnnData file.",
             "pathType": "dataset",
             "file": "**/*.h5ad"
